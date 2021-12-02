@@ -1,4 +1,4 @@
-# To excecute the script:
+# To excecute the script
 1. First put them in the same folder as "dataset"
 2. Check that all the needed packages like Keras are already installed, otherwise you can refer to "installation instructions" bellow
 3. There is a simple example in validationExperiments.py of how to run DL-CIBuild
